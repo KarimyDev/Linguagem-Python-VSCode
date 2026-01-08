@@ -4,6 +4,10 @@ Repositório com exercícios e exemplos desenvolvidos durante meus estudos em Py
 
 Os códigos foram criados para praticar lógica de programação, estruturas básicas e organização de código.
 
+## Organização do repositório
+- 📁 vscode: exercícios desenvolvidos utilizando o VSCode
+- 📁 pycharm: exercícios desenvolvidos utilizando o PyCharm
+
 ## Conteúdo
 - Exercícios básicos
 - Prática de lógica
